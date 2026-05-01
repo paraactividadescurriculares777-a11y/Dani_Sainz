@@ -1,5 +1,6 @@
 # Dani_Sainz
 <div align="center">
+  <img src="https://github.com/Dani_Sainz.png" width="130" style="border-radius:50%"/>
 Hola, soy Dana 👩‍💻✨
 Estudiante de Ingeniería en Sistemas · Electrónica · Teatro · Maker
 </div>
@@ -14,21 +15,20 @@ Siempre abierta a aprender, colaborar y meterme en proyectos locos que mezclen s
 
 🛠️ Tecnologías y herramientas
 💻 Lenguajes de programación
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,r,latex,matlab&perline=9" />
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Assembly-333333?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NASM-6E4C13?style=for-the-badge&logoColor=white"/>
+</div>
 🔧 Hardware & Embebidos
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <br><br>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+</div>
 ⚡ Electricidad & Electrónica
 
 🏠 Instalaciones eléctricas domiciliarias
@@ -43,13 +43,19 @@ Próximamente voy a ir subiendo mis proyectos aquí. ¡Stay tuned! 👀
 
 📊 GitHub Stats
 <div align="center">
-Mostrar imagen
-Mostrar imagen
+  <img src="https://github-readme-stats.vercel.app/api?username=Dani_Sainz&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani_Sainz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 🎭 Más sobre mí
+<div align="center">
 🎓Estudiante de Ingeniería en Sistemas — UMSS⚡Técnico Medio en Electricidad Industrial🎭Teatro & Oratoria — Casa de la Juventud🌍Delegada IBMUN 2024🤖Maker: Arduino, ESP32, Raspberry Pi🇧🇴Cochabamba, Bolivia
+</div>
 
+<div align="center">
+"El mejor código es el que también entiende el mundo físico." 🔧💡
+</div>
 <div align="center">
 "El mejor código es el que también entiende el mundo físico." 🔧💡
 </div>
